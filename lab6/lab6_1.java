@@ -1,7 +1,7 @@
 public class Lab6_1 {
     public static void main(String[] args) {
 
-        double x = 3;   // сюда ставишь свое значение
+        double x = 3; 
         double f;
 
         if (x < 2) {
